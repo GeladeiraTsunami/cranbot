@@ -1,6 +1,7 @@
 # Cranbot
- A meme Discord bot made possible with [Discord.js Documentation.](https://discordjs.guide) and [Nodejs](https://nodejs.org).
- This is a private bot, you can't add it to your own server, this is more like a template project you can copy, I recommend checking the official [Discord.js Documentation.](https://discordjs.guide) for more information.
+ A meme Discord bot made possible with [Discord.js](https://discordjs.guide) and [Node.js](https://nodejs.org). &nbsp;
+
+ **Note:** This is a private bot, you can't add it to your own server, this is more like a template project, I recommend checking the official [Discord.js Documentation.](https://discordjs.guide) for more information.
 
 ## Cranbot 1.0.0 Roadmap:
 - [x] Reply with preset phrases.
