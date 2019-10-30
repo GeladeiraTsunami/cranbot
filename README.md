@@ -9,12 +9,12 @@
 - [ ] Fix embed content.
 - [ ] Tutorial.
 
-## Cranbot 1.1.0 Roadmap:
+## Cranbot 1.1.0 possible Roadmap:
 - [ ] Display custom status based on day/month of the year.
 - [ ] Play songs through Youtube.
 - [ ] Display lyrics for songs.
 
-### How to create your own Cran-like bot:
+## How to create your own Cran-like bot:
 * (NOT READY) This will be fixed upon release (1.0.0).
 * Download [Node.js](https://nodejs.org/en/download/).
 * Create a folder
@@ -22,9 +22,10 @@
 * Then `npm install discord.js`.
 * Go to [Discord Developer](https://discordapp.com/developers/applications/). Log-in to your account and create a Application.
 * Under settings go to BOTS, create your custom bot and COPY your token.
-* On your main folder, create a file named `config.json`, and paste this: ```{
-	"prefix": "(!) ", //Note: this is just a optional command to call your bot if you want to, you can delete this line if you want. 
+* On your main folder, create a file named `config.json`, and paste the following:&nbsp;
+    ```{
+	"prefix": "(!) ", //Note: this is an OPTIONAL command to call your bot, you can delete this line. 
 	"token": 'YOUR DISCORD TOKEN HERE'
     }```
 
-* to log-in to your bot, go to cmd, type `cd C:\USER\INDEX.JS LOCATION`, and then `node index.js`.
+* to log-in to your bot, go to cmd, type `cd C:\USER\INDEX.JS LOCATION`, and then `node index.js`, if it works you will receive something like "I'm active".

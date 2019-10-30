@@ -13,7 +13,7 @@ for(const file of commandFiles){
 }
 
 client.once('ready', () => {
-    console.log("I'm ready baby")
+    console.log("I'm active baby")
 })
 
 client.on('ready', () => {
