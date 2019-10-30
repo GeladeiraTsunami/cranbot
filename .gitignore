@@ -1,2 +1,9 @@
-src/
+# Packages
+node_modules/
+package-lock.json
+
+# Private
 config.json
+
+# Miscellaneous
+src/
