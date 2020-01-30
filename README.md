@@ -1,20 +1,22 @@
 # Cranbot
- A meme Discord bot made possible with [Discord.js](https://discordjs.guide) and [Node.js](https://nodejs.org). &nbsp;
+ A Discord bot made possible with [Discord.js](https://discordjs.guide) and [Node.js](https://nodejs.org). &nbsp;
 
- **Note: This is a private bot, you can't add it to your own server, this is more of a template project, I strongly recommend checking the official [Discord.js Documentation](https://discordjs.guide) for more information and code explanation.**
+ **Note: This is a private bot, you can't add it to your own server, but you can download and host it yourself, take this as a template, also I strongly recommend checking the official [Discord.js Documentation](https://discordjs.guide) for more information and code explanation.**
 
 ## Cranbot 1.0.0 Roadmap:
-- [x] Reply with preset phrases.
-- [ ] fixing dependancies, documentation and licensing.
+- [x] Status message.
+- [x] Replies.
+- [x] Rich presence.
+- [ ] Dependancies, documentation and licensing fix.
 - [ ] Fix embed content.
-- [ ] Tutorial.
+- [ ] Tutorial (how to section).
 
-## Cranbot 1.1.0 possible Roadmap:
+## Cranbot 2.0 POSSIBLE Roadmap:
 - [ ] Display custom status based on day/month of the year.
 - [ ] Play songs through Youtube.
 - [ ] Display lyrics for songs.
 
-## How to create your own Cran-like bot:
+## How to:
 * (NOT READY) This will be fixed upon release (1.0.0).
 * Download [Node.js](https://nodejs.org/en/download/).
 * Create a folder
